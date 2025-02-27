@@ -1,4 +1,4 @@
-# Data Analysis Bootcamp - Day 7
+ Bootcamp - Day 7
 
 ## 📚 Task 1: Understanding SQL and Database Concepts
 
